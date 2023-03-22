@@ -7,3 +7,10 @@ this scheme uses the [one made by the dracula team](https://draculatheme.com/ged
 I've only tested with gnome text editor and there is no light mode option
 
 ![screenshot](screenshot.png)
+
+## installation
+
+```
+curl https://raw.githubusercontent.com/kevin-nel/tokyo-night-gtksourceview/main/tokyo-night.xml > tokyo-night.xml
+mv tokyo-night.xml ~/.local/share/gtksourceview-5/styles
+```
